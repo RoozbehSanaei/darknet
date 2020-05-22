@@ -1,5 +1,5 @@
 classes= 1
-valid  = /home/roozbeh/custom/validation.txt
-names = /home/roozbeh/custom/ball.names
-train  = /home/roozbeh/custom/training.txt
+valid  = /content/data/validation.txt
+names = /content/data//ball.names
+train  = /content/data/training.txt
 eval=coco
